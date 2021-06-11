@@ -33,9 +33,6 @@ export default {
   body {
     font-family: 'Harmattan', sans-serif;
   }
-  // Font Variables :-
-  $grayText01: #7F7F7F;
-  // ======================
   // helper classes :-
   .pointer {
     cursor: pointer;
